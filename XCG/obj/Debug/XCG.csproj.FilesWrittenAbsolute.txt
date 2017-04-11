@@ -1,0 +1,16 @@
+/Users/You7inho/Development/Xamarin/XCG/XCG/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile111.AssemblyAttribute.cs
+/Users/You7inho/Development/Xamarin/XCG/XCG/obj/Debug/XCG.App.xaml
+/Users/You7inho/Development/Xamarin/XCG/XCG/obj/Debug/XCG.XCGPage.xaml
+/Users/You7inho/Development/Xamarin/XCG/XCG/obj/Debug/XCG.App.xaml.g.cs
+/Users/You7inho/Development/Xamarin/XCG/XCG/obj/Debug/XCG.XCGPage.xaml.g.cs
+/Users/You7inho/Development/Xamarin/XCG/XCG/bin/Debug/XCG.dll.mdb
+/Users/You7inho/Development/Xamarin/XCG/XCG/bin/Debug/XCG.dll
+/Users/You7inho/Development/Xamarin/XCG/XCG/obj/Debug/XCG.dll
+/Users/You7inho/Development/Xamarin/XCG/XCG/obj/Debug/XCG.dll.mdb
+/Users/You7inho/Development/Xamarin/XCG/XCG/bin/Debug/Xamarin.Forms.Core.dll
+/Users/You7inho/Development/Xamarin/XCG/XCG/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/You7inho/Development/Xamarin/XCG/XCG/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/You7inho/Development/Xamarin/XCG/XCG/obj/Debug/XCG.View.StartPage.xaml
+/Users/You7inho/Development/Xamarin/XCG/XCG/obj/Debug/XCG.View.WorldPage.xaml
+/Users/You7inho/Development/Xamarin/XCG/XCG/obj/Debug/XCG.View.StartPage.xaml.g.cs
+/Users/You7inho/Development/Xamarin/XCG/XCG/obj/Debug/XCG.View.WorldPage.xaml.g.cs

@@ -1,0 +1,15 @@
+/Users/You7inho/Development/Xamarin/XCG/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/You7inho/Development/Xamarin/XCG/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/You7inho/Development/Xamarin/XCG/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.2/actool/_PartialAppManifest.items
+/Users/You7inho/Development/Xamarin/XCG/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.2/actool/_BundleResourceWithLogicalName.items
+/Users/You7inho/Development/Xamarin/XCG/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.2/optimized/
+/Users/You7inho/Development/Xamarin/XCG/iOS/bin/iPhoneSimulator/Debug/XCG.iOS.exe.mdb
+/Users/You7inho/Development/Xamarin/XCG/iOS/bin/iPhoneSimulator/Debug/XCG.iOS.exe
+/Users/You7inho/Development/Xamarin/XCG/iOS/obj/iPhoneSimulator/Debug/XCG.iOS.exe
+/Users/You7inho/Development/Xamarin/XCG/iOS/obj/iPhoneSimulator/Debug/XCG.iOS.exe.mdb
+/Users/You7inho/Development/Xamarin/XCG/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/You7inho/Development/Xamarin/XCG/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/You7inho/Development/Xamarin/XCG/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/You7inho/Development/Xamarin/XCG/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/You7inho/Development/Xamarin/XCG/iOS/bin/iPhoneSimulator/Debug/XCG.dll
+/Users/You7inho/Development/Xamarin/XCG/iOS/bin/iPhoneSimulator/Debug/XCG.dll.mdb
