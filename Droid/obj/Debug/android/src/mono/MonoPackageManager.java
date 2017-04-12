@@ -99,22 +99,42 @@ class MonoPackageManager_Resources {
 	public static final String[] Assemblies = new String[]{
 		/* We need to ensure that "XCG.Droid.dll" comes first in this list. */
 		"XCG.Droid.dll",
-		"Xamarin.Android.Support.v4.dll",
-		"Xamarin.Android.Support.Vector.Drawable.dll",
+		"FormsViewGroup.dll",
 		"Xamarin.Android.Support.Animated.Vector.Drawable.dll",
-		"Xamarin.Android.Support.v7.AppCompat.dll",
-		"Xamarin.Android.Support.v7.RecyclerView.dll",
 		"Xamarin.Android.Support.Design.dll",
+		"Xamarin.Android.Support.v4.dll",
+		"Xamarin.Android.Support.v7.AppCompat.dll",
 		"Xamarin.Android.Support.v7.CardView.dll",
 		"Xamarin.Android.Support.v7.MediaRouter.dll",
-		"FormsViewGroup.dll",
+		"Xamarin.Android.Support.v7.RecyclerView.dll",
+		"Xamarin.Android.Support.Vector.Drawable.dll",
 		"Xamarin.Forms.Core.dll",
 		"Xamarin.Forms.Platform.Android.dll",
 		"Xamarin.Forms.Platform.dll",
 		"Xamarin.Forms.Xaml.dll",
 		"XCG.dll",
+		"System.Runtime.dll",
+		"System.Collections.dll",
+		"System.Diagnostics.Debug.dll",
+		"System.Threading.Tasks.dll",
+		"System.ObjectModel.dll",
+		"System.Globalization.dll",
+		"System.ComponentModel.dll",
+		"System.Xml.ReaderWriter.dll",
+		"System.Reflection.dll",
+		"System.Linq.Expressions.dll",
+		"System.IO.dll",
+		"System.Dynamic.Runtime.dll",
+		"System.Threading.dll",
+		"System.Runtime.Extensions.dll",
+		"System.Linq.dll",
+		"System.Reflection.Extensions.dll",
+		"System.Text.RegularExpressions.dll",
+		"System.Collections.Concurrent.dll",
+		"System.Runtime.InteropServices.dll",
+		"System.Diagnostics.Tools.dll",
 	};
 	public static final String[] Dependencies = new String[]{
 	};
-	public static final String ApiPackageName = "Mono.Android.Platform.ApiLevel_23";
+	public static final String ApiPackageName = "Mono.Android.Platform.ApiLevel_24";
 }
