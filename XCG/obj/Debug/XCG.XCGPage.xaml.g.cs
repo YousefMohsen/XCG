@@ -11,7 +11,7 @@
 namespace XCG {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\projects\\XCG\\XCG\\XCGPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Yousef Mohsen\\Source\\Repos\\XCG\\XCG\\XCGPage.xaml")]
     public partial class XCGPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
