@@ -28,6 +28,7 @@
 			<Button Text="Play" Clicked="playButton"/>
 					<Button Text="Score"/>
 					<Button Text="Settings"/>
+                <Button Text="Help"/>
 				
 
 			</StackLayout>
@@ -35,9 +36,9 @@
 
 
 
-			<StackLayout Grid.Row="2" Grid.Column="0"  VerticalOptions="End">
+            <StackLayout Grid.Row="2" Grid.Column="0"   VerticalOptions="End">
 
-					<Label Text="Reklamer" FontSize="30" Margin="10" HorizontalOptions="Center" />
+			<Label Text="Reklamer" FontSize="30" Margin="10" HorizontalOptions="Center" BackgroundColor="Black" />
 
 				
 

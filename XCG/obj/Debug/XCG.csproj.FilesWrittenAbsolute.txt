@@ -14,3 +14,7 @@
 /Users/You7inho/Development/Xamarin/XCG/XCG/obj/Debug/XCG.View.WorldPage.xaml
 /Users/You7inho/Development/Xamarin/XCG/XCG/obj/Debug/XCG.View.StartPage.xaml.g.cs
 /Users/You7inho/Development/Xamarin/XCG/XCG/obj/Debug/XCG.View.WorldPage.xaml.g.cs
+/Users/You7inho/Development/Xamarin/XCG/XCG/obj/Debug/XCG.View.ContinentPage.xaml
+/Users/You7inho/Development/Xamarin/XCG/XCG/obj/Debug/XCG.View.CountryPage.xaml
+/Users/You7inho/Development/Xamarin/XCG/XCG/obj/Debug/XCG.View.ContinentPage.xaml.g.cs
+/Users/You7inho/Development/Xamarin/XCG/XCG/obj/Debug/XCG.View.CountryPage.xaml.g.cs
