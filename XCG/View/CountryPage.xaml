@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XCG.View.CountryPage">
+    <Label Text="{Binding MainText}" VerticalOptions="Center" HorizontalOptions="Center" />
+
+    <!--  parent -->
+    <Grid HorizontalOptions="CenterAndExpand">
+        <Grid.RowDefinitions >
+            <RowDefinition Height="*" />
+            <RowDefinition Height="auto"  />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+    
+        </Grid.ColumnDefinitions>
+        <!-- 1 top-->
+        <StackLayout Grid.Row="0"  VerticalOptions="Start" Orientation="Horizontal">
+            <Label Text="return" FontSize="Small" Margin="10" HorizontalOptions="Center" BackgroundColor="Black" />
+            <Label Text="France" FontSize="30" Margin="10" HorizontalOptions="Center" BackgroundColor="Black" />
+
+            <Label Text="resetPoints" FontSize="Small" Margin="10" HorizontalOptions="Center" BackgroundColor="Black" />
+
+        </StackLayout>
+
+
+
+        <!-- 2 body: the questins, answers/flags etc-->
+        <StackLayout  Grid.Row="1" Padding="10"  >
+            <Grid  Grid.Row="1" Padding="10">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"  />
+                <RowDefinition Height="auto" />
+              
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto" />
+                <ColumnDefinition Width="auto" />
+            
+            </Grid.ColumnDefinitions>
+
+            <Label Text="game" FontSize="30" HorizontalOptions="Center" BackgroundColor="Black" />
+
+            <Image WidthRequest="100" HeightRequest="100" Source='\images\answer1.jpg' BackgroundColor="DarkCyan" Grid.Column="0" Grid.Row="0" />
+            <Image WidthRequest="100" HeightRequest="100" Source='\images\answer1.jpg' BackgroundColor="DarkOrange" Grid.Column="1" Grid.Row="0" />
+
+            <Image WidthRequest="100" HeightRequest="100" Source='\images\answer1.jpg' BackgroundColor="DarkKhaki" Grid.Column="0" Grid.Row="1" />
+
+            <Image WidthRequest="100" HeightRequest="100" Source='\images\answer1.jpg' BackgroundColor="DarkGreen" Grid.Column="1" Grid.Row="1" />
+
+
+
+        </Grid>
+
+            <!-- answers-->
+            <StackLayout  Padding="10"  VerticalOptions="End" Orientation="Horizontal" >
+
+                <Label Text="flag1" FontSize="25"  HorizontalOptions="Center" BackgroundColor="Black" />
+                <Label Text="flag2" FontSize="25"  HorizontalOptions="Center" BackgroundColor="Black" />
+                <Label Text="flag3" FontSize="25"  HorizontalOptions="Center" BackgroundColor="Black" />
+                <Label Text="flag4" FontSize="25"  HorizontalOptions="Center" BackgroundColor="Black" />
+
+
+            </StackLayout>
+
+        </StackLayout >
+     
+
+        <!-- 3 score etc-->
+            <StackLayout Grid.Row="2"  >
+
+                <Label Text="score" FontSize="30"  HorizontalOptions="Center" BackgroundColor="Black" />
+
+
+
+        </StackLayout>
+
+
+
+        
+
+        <!-- 4 ads -->
+        <StackLayout Grid.Row="3 "   VerticalOptions="End">
+
+            <Label Text="Reklamer" FontSize="30" Margin="10" HorizontalOptions="Center" BackgroundColor="Black" />
+
+
+
+        </StackLayout>
+
+
+        </Grid>
+</ContentPage>
